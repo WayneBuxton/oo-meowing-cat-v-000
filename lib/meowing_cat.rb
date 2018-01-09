@@ -1,2 +1,5 @@
 class Cat
-end## code your solution here. 
+  attr_accessor :name
+end
+
+maru = Cat.new
